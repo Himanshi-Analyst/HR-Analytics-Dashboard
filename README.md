@@ -89,5 +89,5 @@ Based on the actual dataset powering this dashboard (1,470 employees):
 
 #Profile of a flight-risk employee: young, single, working overtime, traveling frequently, in Sales or an entry-level technical role, with low satisfaction and work-life balance scores. This is the segment HR should prioritize for retention efforts.
 
-Screenshots / Demos
+
 
